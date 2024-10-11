@@ -8,3 +8,35 @@ body,
 html {
   height: 100%;
 }
+<<<<<<< HEAD
+
+/* Style for the legend container */
+.legend {
+  line-height: 1.5; /* Use relative line-height for flexibility */
+  color: #000; /* Use hex code for consistency and better readability */
+  background-color: #fff; /* Use hex code for white */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add subtle shadow for better visibility */
+  font-family: Arial, sans-serif; /* Ensure consistent font styling */
+}
+
+/* Style for the color boxes in the legend */
+.legend i {
+  display: inline-block; /* Ensures proper inline behavior */
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  vertical-align: middle; /* Aligns icon vertically with text */
+  background-color: #ccc; /* Default color; customize based on use case */
+  border-radius: 4px; /* Optional: round the corners of the boxes */
+}
+
+/* Optional: if you need additional hover effects */
+.legend i:hover {
+  transform: scale(1.1); /* Slight zoom effect on hover */
+  transition: transform 0.2s ease-in-out; /* Smooth transition */
+}
+
+=======
+>>>>>>> 0aa7f3a1672e38e27dee9d0f25dbfce08a5fefa7
