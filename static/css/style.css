@@ -8,7 +8,6 @@ body,
 html {
   height: 100%;
 }
-<<<<<<< HEAD
 
 /* Style for the legend container */
 .legend {
@@ -38,5 +37,3 @@ html {
   transition: transform 0.2s ease-in-out; /* Smooth transition */
 }
 
-=======
->>>>>>> 0aa7f3a1672e38e27dee9d0f25dbfce08a5fefa7
